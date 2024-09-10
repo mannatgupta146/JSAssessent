@@ -70,6 +70,7 @@ function getTotalSupply() {
 }
 ```
 ## Example usage
+```
 mintNFT("Chennai Super Kings", "Yellow", "Mahendra Singh Dhoni", 5, 1);
 mintNFT("Mumbai Indians", "Blue", "Rohit Sharma", 5, 2);
 mintNFT("Kolkata Knight Riders", "Purple", "Gautam Gambhir", 3, 3);
@@ -79,7 +80,7 @@ mintNFT("Royal Challengers Bangalore", "Red", "Virat Kohli", 0, 6);
 
 listNFTs();
 getTotalSupply();
-
+```
 
 ### Contributing
 Contributions are welcome! If you have ideas for improvements or new features, feel free to fork the repository and submit a pull request. Let's make this project even better together!
