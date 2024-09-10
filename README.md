@@ -68,8 +68,8 @@ function listNFTs() {
 function getTotalSupply() {
     console.log("Total NFT minted: " + NFTContainer.length);
 }
-
-// Example usage
+```
+## Example usage
 mintNFT("Chennai Super Kings", "Yellow", "Mahendra Singh Dhoni", 5, 1);
 mintNFT("Mumbai Indians", "Blue", "Rohit Sharma", 5, 2);
 mintNFT("Kolkata Knight Riders", "Purple", "Gautam Gambhir", 3, 3);
